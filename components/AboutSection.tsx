@@ -27,14 +27,13 @@ const AboutSection = () => {
         <div className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
           <div className="md:w-1/2 ">
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
-              Get to know me!
+              About me
             </h1>
             <p>
-              Hi, my name is Hosna and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
-              based in Los Angeles, CA.
+              Hey, I'm Jim, I work in learning, doing{" "}
+              <span className="font-bold">{"design"}</span>,
+              <span className="font-bold">{" delivery"}</span>, and
+              <span className="font-bold">{" measurement"}</span> with clients and collaborators all over the world.
             </p>
             <br />
             <p>
